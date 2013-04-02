@@ -1,4 +1,7 @@
 @import "compass/css3";
+@include h5bp-normalize-selection( $selected-background-color, $selected-font-color );
+
+$selected-background-color: #000;
 
 //-----------------------------------------------
 // The following html5-boilerplate styles should
