@@ -98,9 +98,9 @@ a:active,
 
 /* site-head */
 #site-head {
-	margin: 0 0 40px 0;
-	padding: 40px 0;
-	border-bottom: 6px solid tint($comp-color, 80%);
+	margin: 0 0 60px 0;
+	padding: 60px 0;
+	border-bottom: 6px solid tint($comp-color, 70%);
 }
 
 #site-prime-title {
@@ -129,9 +129,9 @@ a:active,
 
 /* mod */
 .mod {
-	margin: 0 0 40px 0;
-	padding: 0 0 40px 0;
-	border-bottom: 6px solid tint($comp-color, 80%);
+	margin: 0 0 60px 0;
+	padding: 0 0 60px 0;
+	border-bottom: 6px solid tint($comp-color, 70%);
 	
 	.mod-prime-title {
 		color: $comp-color;
@@ -153,7 +153,13 @@ a:active,
 		p {
 			margin: 0 0 20px 0;
 		}
+		
+		> *:last-child {
+			margin-bottom: 0;
+		}
+		
 	}
+	
 }
 
 .contact-list {
