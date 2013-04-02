@@ -1,0 +1,27 @@
+// This file must be imported before loading html5-boilerplate
+
+// base
+$base-font-family: 'Asap', sans-serif;
+$base-font-size: 18px;
+$base-line-height: 24px;
+$font-color: #000;
+$comp-color: #0474BA;
+
+// Links
+$link-color: tint($font-color, 30%);
+$link-visited-color: tint($font-color, 30%);
+$link-hover-color: tint($font-color, 30%);
+
+// Lists
+$list-left-margin: 40px;
+
+// Retina
+@mixin at2x($image_name, $w: auto, $h: auto, $extention: '.png') {
+  background-image: image_url($image_name + $extention);
+  $x2img : $image_name + '@2x' + $extention;
+
+  @media all and (-webkit-min-device-pixel-ratio : 1.5) {
+    background-image: image_url($x2img);
+    background-size: $w $h;
+  }
+}

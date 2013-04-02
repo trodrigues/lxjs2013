@@ -1,0 +1,446 @@
+2013-03-26 11:58:12    create stylesheets/main.css 
+2013-03-26 11:59:32    create stylesheets/app.css 
+2013-03-26 13:59:11    create stylesheets/app.css 
+2013-03-26 14:02:25     error sass/app.scss (Line 34: File to import not found or unreadable: partials/fonts.
+Load paths:
+  /Users/ricardomestre/Quodis/Dropbox/Quodis/Clients Ricardo/LxJS/002 LXJS Landing 2013/Front-end/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-03-26 14:02:25 overwrite stylesheets/app.css 
+2013-03-26 14:13:34 overwrite stylesheets/app.css 
+2013-03-26 14:15:13 overwrite stylesheets/app.css 
+2013-03-26 14:16:10 overwrite stylesheets/app.css 
+2013-03-26 14:22:26 overwrite stylesheets/app.css 
+2013-03-26 14:26:54    create stylesheets/app.css 
+2013-03-26 14:27:26 identical stylesheets/app.css 
+2013-03-26 14:27:37 identical stylesheets/app.css 
+2013-03-26 14:28:57 overwrite stylesheets/app.css 
+2013-03-26 14:29:27 overwrite stylesheets/app.css 
+2013-03-26 14:29:34 identical stylesheets/app.css 
+2013-03-26 14:31:00 identical stylesheets/app.css 
+2013-03-26 14:31:22 identical stylesheets/app.css 
+2013-03-26 14:31:31 identical stylesheets/app.css 
+2013-03-26 14:31:48 identical stylesheets/app.css 
+2013-03-26 14:31:58 identical stylesheets/app.css 
+2013-03-26 14:33:30 overwrite css/app.css 
+2013-03-26 14:34:25 overwrite css/app.css 
+2013-03-26 14:34:34 overwrite css/app.css 
+2013-03-26 14:34:38 overwrite css/app.css 
+2013-03-26 14:34:44 identical css/app.css 
+2013-03-26 14:34:56 overwrite css/app.css 
+2013-03-26 14:38:15 overwrite css/app.css 
+2013-03-26 14:38:55 overwrite css/app.css 
+2013-03-26 14:39:50 overwrite css/app.css 
+2013-03-26 14:40:42 overwrite css/app.css 
+2013-03-26 14:41:09 overwrite css/app.css 
+2013-03-26 15:23:43 overwrite css/app.css 
+2013-03-26 15:25:33 overwrite css/app.css 
+2013-03-26 15:25:48 identical css/app.css 
+2013-03-26 15:33:19 overwrite css/app.css 
+2013-03-26 16:59:52     error sass/app.scss (Line 60 of sass/partials/_page.scss: Invalid CSS after "	opacity": expected "{", was "(0.7);")
+2013-03-26 16:59:52 overwrite css/app.css 
+2013-03-26 16:59:52     error sass/app.scss (Line 60 of sass/partials/_page.scss: Invalid CSS after "	opacity": expected "{", was "(0.7);")
+2013-03-26 16:59:52 identical css/app.css 
+2013-03-26 17:00:02     error sass/app.scss (Line 60 of sass/partials/_page.scss: Invalid CSS after "	opacity": expected "{", was "("0.7");")
+2013-03-26 17:00:02 overwrite css/app.css 
+2013-03-26 17:00:02     error sass/app.scss (Line 60 of sass/partials/_page.scss: Invalid CSS after "	opacity": expected "{", was "("0.7");")
+2013-03-26 17:00:02 identical css/app.css 
+2013-03-26 17:00:12     error sass/app.scss (Line 60 of sass/partials/_page.scss: Invalid CSS after "	opacity": expected "{", was "("0,7");")
+2013-03-26 17:00:12 overwrite css/app.css 
+2013-03-26 17:00:12     error sass/app.scss (Line 60 of sass/partials/_page.scss: Invalid CSS after "	opacity": expected "{", was "("0,7");")
+2013-03-26 17:00:12 identical css/app.css 
+2013-03-26 17:00:43 overwrite css/app.css 
+2013-03-26 17:00:59 identical css/app.css 
+2013-03-26 17:01:02 identical css/app.css 
+2013-03-26 17:01:14 identical css/app.css 
+2013-03-26 17:02:43 overwrite css/app.css 
+2013-03-26 17:04:16 overwrite css/app.css 
+2013-03-26 17:06:02 overwrite css/app.css 
+2013-03-26 17:12:42     error sass/app.scss (Line 11 of sass/partials/_base.scss: Undefined variable: "$base-color".)
+2013-03-26 17:12:42 overwrite css/app.css 
+2013-03-26 17:12:59     error sass/app.scss (Line 11 of sass/partials/_base.scss: Undefined variable: "$base-color".)
+2013-03-26 17:12:59 identical css/app.css 
+2013-03-26 17:13:37     error sass/app.scss (Line 4 of sass/partials/_base.scss: Invalid CSS after "$base-color: ": expected expression (e.g. 1px, bold), was ";")
+2013-03-26 17:13:37 overwrite css/app.css 
+2013-03-26 17:13:37     error sass/app.scss (Line 4 of sass/partials/_base.scss: Invalid CSS after "$base-color: ": expected expression (e.g. 1px, bold), was ";")
+2013-03-26 17:13:37 identical css/app.css 
+2013-03-26 17:13:38 overwrite css/app.css 
+2013-03-26 17:13:54     error sass/app.scss (Line 11 of sass/partials/_base.scss: Undefined variable: "$base-color".)
+2013-03-26 17:13:54 overwrite css/app.css 
+2013-03-26 17:14:21 overwrite css/app.css 
+2013-03-26 17:16:11     error sass/app.scss (Line 9 of sass/partials/_base.scss: Undefined mixin 'establish-baseline'.)
+2013-03-26 17:16:11 overwrite css/app.css 
+2013-03-26 17:16:21 overwrite css/app.css 
+2013-03-26 17:16:29     error sass/app.scss (Line 3 of sass/partials/_page.scss: Undefined mixin 'establish-baseline'.)
+2013-03-26 17:16:29 overwrite css/app.css 
+2013-03-26 17:16:59     error sass/app.scss (Line 3 of sass/partials/_page.scss: Undefined mixin 'establish-baseline'.)
+2013-03-26 17:16:59 identical css/app.css 
+2013-03-26 17:19:36     error sass/app.scss (Line 3 of sass/partials/_page.scss: Undefined mixin 'establish-baseline'.)
+2013-03-26 17:19:36 identical css/app.css 
+2013-03-26 17:19:44     error sass/app.scss (Line 84 of sass/partials/_page.scss: Undefined mixin 'establish-baseline'.)
+2013-03-26 17:19:44 overwrite css/app.css 
+2013-03-26 17:19:52 overwrite css/app.css 
+2013-03-26 17:20:13     error sass/app.scss (Line 106 of sass/partials/_helpers.scss: Undefined mixin 'establish-baseline'.)
+2013-03-26 17:20:13 overwrite css/app.css 
+2013-03-26 17:20:16 overwrite css/app.css 
+2013-03-26 17:20:46     error sass/app.scss (Line 1 of sass/partials/_type.scss: Undefined mixin 'establish-baseline'.)
+2013-03-26 17:20:46 overwrite css/app.css 
+2013-03-26 17:20:52 overwrite css/app.css 
+2013-03-26 17:25:48 overwrite css/app.css 
+2013-03-26 17:27:31 overwrite css/app.css 
+2013-03-26 17:27:44 overwrite css/app.css 
+2013-03-26 17:31:20 overwrite css/app.css 
+2013-03-26 17:31:22 overwrite css/app.css 
+2013-03-26 17:31:35 overwrite css/app.css 
+2013-03-26 17:45:59 overwrite css/app.css 
+2013-03-26 17:46:20 overwrite css/app.css 
+2013-03-26 17:46:54 overwrite css/app.css 
+2013-03-26 17:47:33 overwrite css/app.css 
+2013-03-26 17:47:53 overwrite css/app.css 
+2013-03-26 17:48:38 overwrite css/app.css 
+2013-03-26 17:48:39 overwrite css/app.css 
+2013-03-26 17:49:07 overwrite css/app.css 
+2013-03-26 17:49:12 overwrite css/app.css 
+2013-03-26 17:49:19 overwrite css/app.css 
+2013-03-26 17:50:09 overwrite css/app.css 
+2013-03-26 17:50:30 overwrite css/app.css 
+2013-03-26 17:50:42 overwrite css/app.css 
+2013-03-26 17:51:32 overwrite css/app.css 
+2013-03-26 17:52:14 overwrite css/app.css 
+2013-03-26 17:55:29 overwrite css/app.css 
+2013-03-26 17:55:41 overwrite css/app.css 
+2013-03-26 17:56:59 overwrite css/app.css 
+2013-03-26 17:57:38 overwrite css/app.css 
+2013-03-26 17:58:49 overwrite css/app.css 
+2013-03-26 17:59:28 overwrite css/app.css 
+2013-03-26 17:59:33 overwrite css/app.css 
+2013-03-26 18:00:24 overwrite css/app.css 
+2013-03-26 18:00:35 overwrite css/app.css 
+2013-03-26 18:00:53 overwrite css/app.css 
+2013-03-26 18:01:00 identical css/app.css 
+2013-03-26 18:02:12 overwrite css/app.css 
+2013-03-26 18:02:28 overwrite css/app.css 
+2013-03-26 18:02:33 overwrite css/app.css 
+2013-03-26 18:02:38 overwrite css/app.css 
+2013-03-26 18:03:17 overwrite css/app.css 
+2013-03-26 18:04:39 overwrite css/app.css 
+2013-03-26 18:05:32 overwrite css/app.css 
+2013-03-26 18:06:09 overwrite css/app.css 
+2013-03-26 18:06:31 overwrite css/app.css 
+2013-03-26 18:07:03 overwrite css/app.css 
+2013-03-26 18:18:14 overwrite css/app.css 
+2013-03-26 18:27:43 overwrite css/app.css 
+2013-03-26 18:28:56 overwrite css/app.css 
+2013-03-26 18:29:17 overwrite css/app.css 
+2013-03-26 18:30:40 overwrite css/app.css 
+2013-03-26 18:30:44 identical css/app.css 
+2013-03-26 18:31:02 overwrite css/app.css 
+2013-03-26 18:31:30 overwrite css/app.css 
+2013-03-26 18:32:13 overwrite css/app.css 
+2013-03-26 18:32:39 overwrite css/app.css 
+2013-03-26 18:34:03 overwrite css/app.css 
+2013-03-26 18:34:16 overwrite css/app.css 
+2013-03-26 18:34:24 overwrite css/app.css 
+2013-03-26 18:34:38 overwrite css/app.css 
+2013-03-26 18:35:25 overwrite css/app.css 
+2013-03-26 18:35:46 overwrite css/app.css 
+2013-03-26 18:37:29 overwrite css/app.css 
+2013-03-26 18:40:05 overwrite css/app.css 
+2013-03-26 18:40:36     error sass/app.scss (Line 71 of sass/partials/_page.scss: Invalid CSS after "...er-radius(20px)": expected "}", was ":")
+2013-03-26 18:40:36 overwrite css/app.css 
+2013-03-26 18:40:36     error sass/app.scss (Line 71 of sass/partials/_page.scss: Invalid CSS after "...er-radius(20px)": expected "}", was ":")
+2013-03-26 18:40:36 identical css/app.css 
+2013-03-26 18:40:40 overwrite css/app.css 
+2013-03-26 18:41:10 overwrite css/app.css 
+2013-03-26 18:41:20 overwrite css/app.css 
+2013-03-26 18:42:01 overwrite css/app.css 
+2013-03-26 18:42:56     error sass/app.scss (Line 77 of sass/partials/_page.scss: Invalid CSS after "	border-radius": expected "{", was "(50%);")
+2013-03-26 18:42:56 overwrite css/app.css 
+2013-03-26 18:42:57     error sass/app.scss (Line 77 of sass/partials/_page.scss: Invalid CSS after "	border-radius": expected "{", was "(50%);")
+2013-03-26 18:42:57 identical css/app.css 
+2013-03-26 18:42:58     error sass/app.scss (Line 75 of sass/partials/_page.scss: Invalid CSS after "	border-radius": expected "{", was "(50%);")
+2013-03-26 18:42:58 overwrite css/app.css 
+2013-03-26 18:42:59     error sass/app.scss (Line 75 of sass/partials/_page.scss: Invalid CSS after "	border-radius": expected "{", was "(50%);")
+2013-03-26 18:42:59 identical css/app.css 
+2013-03-26 18:43:21 overwrite css/app.css 
+2013-04-01 12:42:59 overwrite css/app.css 
+2013-04-01 12:43:27 overwrite css/app.css 
+2013-04-01 12:43:31 overwrite css/app.css 
+2013-04-01 12:43:35 overwrite css/app.css 
+2013-04-01 12:43:56 overwrite css/app.css 
+2013-04-01 12:44:20 overwrite css/app.css 
+2013-04-01 12:44:43 overwrite css/app.css 
+2013-04-01 12:45:04 overwrite css/app.css 
+2013-04-01 12:47:37 overwrite css/app.css 
+2013-04-01 12:48:30 overwrite css/app.css 
+2013-04-01 12:49:49 overwrite css/app.css 
+2013-04-01 12:50:08 overwrite css/app.css 
+2013-04-01 12:50:21 overwrite css/app.css 
+2013-04-01 12:52:59 overwrite css/app.css 
+2013-04-01 13:00:20 overwrite css/app.css 
+2013-04-01 13:01:11 overwrite css/app.css 
+2013-04-01 13:01:37 overwrite css/app.css 
+2013-04-01 13:01:53 overwrite css/app.css 
+2013-04-01 13:04:02 overwrite css/app.css 
+2013-04-01 13:04:23 overwrite css/app.css 
+2013-04-01 13:04:34 overwrite css/app.css 
+2013-04-01 13:05:12 overwrite css/app.css 
+2013-04-01 13:05:51 overwrite css/app.css 
+2013-04-01 13:06:37 overwrite css/app.css 
+2013-04-01 13:07:24 overwrite css/app.css 
+2013-04-01 13:07:58 overwrite css/app.css 
+2013-04-01 13:08:29 overwrite css/app.css 
+2013-04-01 13:08:37 overwrite css/app.css 
+2013-04-01 13:10:12 overwrite css/app.css 
+2013-04-01 13:11:57 overwrite css/app.css 
+2013-04-01 13:12:08 overwrite css/app.css 
+2013-04-01 13:12:51 overwrite css/app.css 
+2013-04-01 14:58:55     error sass/app.scss (Line 123 of sass/partials/_page.scss: Invalid CSS after "	padding:": expected expression (e.g. 1px, bold), was ".mod-prime-title {")
+2013-04-01 14:58:55 overwrite css/app.css 
+2013-04-01 14:58:56     error sass/app.scss (Line 123 of sass/partials/_page.scss: Invalid CSS after "	padding:": expected expression (e.g. 1px, bold), was ".mod-prime-title {")
+2013-04-01 14:58:56 identical css/app.css 
+2013-04-01 14:59:08 overwrite css/app.css 
+2013-04-01 14:59:40 overwrite css/app.css 
+2013-04-01 15:07:10 overwrite css/app.css 
+2013-04-01 15:07:25 overwrite css/app.css 
+2013-04-01 15:10:00 overwrite css/app.css 
+2013-04-01 15:16:43 overwrite css/app.css 
+2013-04-01 15:16:50 overwrite css/app.css 
+2013-04-01 15:16:59 overwrite css/app.css 
+2013-04-01 15:17:30 overwrite css/app.css 
+2013-04-01 15:17:48 overwrite css/app.css 
+2013-04-01 15:19:14 overwrite css/app.css 
+2013-04-01 15:19:18 overwrite css/app.css 
+2013-04-01 15:19:25 overwrite css/app.css 
+2013-04-01 15:19:53 overwrite css/app.css 
+2013-04-01 15:24:45 overwrite css/app.css 
+2013-04-01 15:25:52 overwrite css/app.css 
+2013-04-01 15:26:12 overwrite css/app.css 
+2013-04-01 15:26:30 overwrite css/app.css 
+2013-04-01 15:26:40 overwrite css/app.css 
+2013-04-01 15:27:01 overwrite css/app.css 
+2013-04-01 15:27:11 overwrite css/app.css 
+2013-04-01 15:27:39 overwrite css/app.css 
+2013-04-01 15:27:56 overwrite css/app.css 
+2013-04-01 15:28:09 overwrite css/app.css 
+2013-04-01 15:28:22 overwrite css/app.css 
+2013-04-01 15:28:46 overwrite css/app.css 
+2013-04-01 15:29:10     error sass/app.scss (Line 158 of sass/partials/_page.scss: Invalid CSS after "		display: block": expected ";", was ":")
+2013-04-01 15:29:10 overwrite css/app.css 
+2013-04-01 15:29:12     error sass/app.scss (Line 158 of sass/partials/_page.scss: Invalid CSS after "		display: block": expected ";", was ":")
+2013-04-01 15:29:12 identical css/app.css 
+2013-04-01 15:29:20 overwrite css/app.css 
+2013-04-01 15:30:17 overwrite css/app.css 
+2013-04-01 15:30:32 overwrite css/app.css 
+2013-04-01 15:30:42 overwrite css/app.css 
+2013-04-01 15:31:16 overwrite css/app.css 
+2013-04-01 15:31:27 overwrite css/app.css 
+2013-04-01 15:32:19 overwrite css/app.css 
+2013-04-01 15:32:38 overwrite css/app.css 
+2013-04-01 15:32:49 overwrite css/app.css 
+2013-04-01 15:33:14 overwrite css/app.css 
+2013-04-01 15:33:25 overwrite css/app.css 
+2013-04-01 15:36:09 overwrite css/app.css 
+2013-04-01 15:37:40 overwrite css/app.css 
+2013-04-01 15:39:01 overwrite css/app.css 
+2013-04-01 15:39:18 overwrite css/app.css 
+2013-04-01 15:42:46 overwrite css/app.css 
+2013-04-01 15:42:53 overwrite css/app.css 
+2013-04-01 15:43:26 overwrite css/app.css 
+2013-04-01 15:44:00 overwrite css/app.css 
+2013-04-01 15:44:20 overwrite css/app.css 
+2013-04-01 15:46:30     error sass/app.scss (Line 100 of sass/partials/_media.scss: Invalid CSS after "}": expected "}", was "")
+2013-04-01 15:46:30 overwrite css/app.css 
+2013-04-01 15:46:30     error sass/app.scss (Line 100 of sass/partials/_media.scss: Invalid CSS after "}": expected "}", was "")
+2013-04-01 15:46:30 identical css/app.css 
+2013-04-01 15:46:42 overwrite css/app.css 
+2013-04-01 15:46:49 overwrite css/app.css 
+2013-04-01 15:48:07 overwrite css/app.css 
+2013-04-01 15:48:36 overwrite css/app.css 
+2013-04-01 15:48:42 overwrite css/app.css 
+2013-04-01 15:48:52 overwrite css/app.css 
+2013-04-01 15:49:42 overwrite css/app.css 
+2013-04-01 15:49:48 overwrite css/app.css 
+2013-04-01 15:51:01 overwrite css/app.css 
+2013-04-01 15:54:12 overwrite css/app.css 
+2013-04-01 15:54:35 overwrite css/app.css 
+2013-04-01 15:54:42 overwrite css/app.css 
+2013-04-01 15:55:36 overwrite css/app.css 
+2013-04-01 15:56:11 overwrite css/app.css 
+2013-04-01 16:02:27 overwrite css/app.css 
+2013-04-01 16:03:16 overwrite css/app.css 
+2013-04-01 16:04:28 overwrite css/app.css 
+2013-04-01 16:04:39 overwrite css/app.css 
+2013-04-01 16:10:06 overwrite css/app.css 
+2013-04-01 16:10:18 overwrite css/app.css 
+2013-04-01 16:10:26 overwrite css/app.css 
+2013-04-01 16:11:31 overwrite css/app.css 
+2013-04-01 16:25:30 overwrite css/app.css 
+2013-04-01 16:25:47 overwrite css/app.css 
+2013-04-01 16:26:05 overwrite css/app.css 
+2013-04-01 16:30:39     error sass/app.scss (Line 19 of sass/partials/_base.scss: Invalid CSS after "...ntion: '.png') ": expected "{", was "")
+2013-04-01 16:30:39 overwrite css/app.css 
+2013-04-01 16:30:39     error sass/app.scss (Line 19 of sass/partials/_base.scss: Invalid CSS after "...ntion: '.png') ": expected "{", was "")
+2013-04-01 16:30:39 identical css/app.css 
+2013-04-01 16:30:48     error sass/app.scss (Line 19 of sass/partials/_base.scss: Invalid CSS after "...ention: '.png')": expected "{", was ";")
+2013-04-01 16:30:48 overwrite css/app.css 
+2013-04-01 16:30:48     error sass/app.scss (Line 19 of sass/partials/_base.scss: Invalid CSS after "...ention: '.png')": expected "{", was ";")
+2013-04-01 16:30:48 identical css/app.css 
+2013-04-01 16:31:04     error sass/app.scss (Line 19 of sass/partials/_base.scss: Invalid CSS after "...ention: '.png')": expected "{", was ";")
+2013-04-01 16:31:04 identical css/app.css 
+2013-04-01 16:31:04     error sass/app.scss (Line 19 of sass/partials/_base.scss: Invalid CSS after "...ention: '.png')": expected "{", was ";")
+2013-04-01 16:31:04 identical css/app.css 
+2013-04-01 16:31:41 overwrite css/app.css 
+2013-04-01 16:32:25 overwrite css/app.css 
+2013-04-01 16:32:27 overwrite css/app.css 
+2013-04-01 16:33:33     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:33:33 overwrite css/app.css 
+2013-04-01 16:33:33     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:33:33 identical css/app.css 
+2013-04-01 16:33:43     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:33:43 identical css/app.css 
+2013-04-01 16:33:43     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:33:43 identical css/app.css 
+2013-04-01 16:33:52     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:33:52 identical css/app.css 
+2013-04-01 16:33:52     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:33:52 identical css/app.css 
+2013-04-01 16:34:15     error sass/app.scss (Line 26 of sass/partials/_page.scss: Invalid CSS after "...ckground: #FFF ": expected ";", was "@include at2x('...")
+2013-04-01 16:34:15 overwrite css/app.css 
+2013-04-01 16:34:15     error sass/app.scss (Line 26 of sass/partials/_page.scss: Invalid CSS after "...ckground: #FFF ": expected ";", was "@include at2x('...")
+2013-04-01 16:34:15 identical css/app.css 
+2013-04-01 16:34:43     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".jpg);")
+2013-04-01 16:34:43 overwrite css/app.css 
+2013-04-01 16:34:44     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".jpg);")
+2013-04-01 16:34:44 identical css/app.css 
+2013-04-01 16:34:47     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:34:47 overwrite css/app.css 
+2013-04-01 16:34:47     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:34:47 identical css/app.css 
+2013-04-01 16:34:48     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:34:48 identical css/app.css 
+2013-04-01 16:34:48     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:34:48 identical css/app.css 
+2013-04-01 16:34:57     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:34:57 identical css/app.css 
+2013-04-01 16:34:57     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:34:57 identical css/app.css 
+2013-04-01 16:35:05     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:35:05 identical css/app.css 
+2013-04-01 16:35:05     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:35:05 identical css/app.css 
+2013-04-01 16:35:41     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:35:41 identical css/app.css 
+2013-04-01 16:35:42     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:35:42 identical css/app.css 
+2013-04-01 16:36:10     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:36:10 identical css/app.css 
+2013-04-01 16:36:10     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:36:10 identical css/app.css 
+2013-04-01 16:36:34     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:36:34 identical css/app.css 
+2013-04-01 16:36:34     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:36:34 identical css/app.css 
+2013-04-01 16:36:36     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:36:36 identical css/app.css 
+2013-04-01 16:36:36     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:36:36 identical css/app.css 
+2013-04-01 16:36:57     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:36:57 identical css/app.css 
+2013-04-01 16:36:57     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:36:57 identical css/app.css 
+2013-04-01 16:37:26     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:37:26 identical css/app.css 
+2013-04-01 16:37:26     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:37:26 identical css/app.css 
+2013-04-01 16:37:27     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:37:27 identical css/app.css 
+2013-04-01 16:37:28     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:37:28 identical css/app.css 
+2013-04-01 16:38:35     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:38:35 identical css/app.css 
+2013-04-01 16:38:36     error sass/app.scss (Line 27 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:38:36 identical css/app.css 
+2013-04-01 16:38:41     error sass/app.scss (Line 38 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:38:41 overwrite css/app.css 
+2013-04-01 16:38:41     error sass/app.scss (Line 38 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:38:41 identical css/app.css 
+2013-04-01 16:39:58     error sass/app.scss (Line 38 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:39:58 identical css/app.css 
+2013-04-01 16:39:59     error sass/app.scss (Line 38 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:39:59 identical css/app.css 
+2013-04-01 16:40:46     error sass/app.scss (Line 37 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:40:46 overwrite css/app.css 
+2013-04-01 16:40:47     error sass/app.scss (Line 37 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:40:47 identical css/app.css 
+2013-04-01 16:40:48     error sass/app.scss (Line 38 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:40:48 overwrite css/app.css 
+2013-04-01 16:40:49     error sass/app.scss (Line 38 of sass/partials/_page.scss: Invalid CSS after "... 200px, 100px, ": expected mixin argument, was ".png);")
+2013-04-01 16:40:49 identical css/app.css 
+2013-04-01 16:41:17 overwrite css/app.css 
+2013-04-01 16:42:24 overwrite css/app.css 
+2013-04-01 16:42:38 overwrite css/app.css 
+2013-04-01 16:43:11 overwrite css/app.css 
+2013-04-01 16:43:31     error sass/app.scss (Line 27 of sass/partials/_page.scss: Undefined mixin 'at2x'.)
+2013-04-01 16:43:31 overwrite css/app.css 
+2013-04-01 16:43:36 overwrite css/app.css 
+2013-04-01 16:43:53     error sass/app.scss (Line 24 of sass/partials/_base.scss: Invalid CSS after "...kground-image: ": expected expression (e.g. 1px, bold), was "../image_url($x...")
+2013-04-01 16:43:53 overwrite css/app.css 
+2013-04-01 16:43:54     error sass/app.scss (Line 24 of sass/partials/_base.scss: Invalid CSS after "...kground-image: ": expected expression (e.g. 1px, bold), was "../image_url($x...")
+2013-04-01 16:43:54 identical css/app.css 
+2013-04-01 16:44:05     error sass/app.scss (Line 24 of sass/partials/_base.scss: Invalid CSS after "...nd-image: '../'": expected ";", was ".image_url($x2i...")
+2013-04-01 16:44:05 overwrite css/app.css 
+2013-04-01 16:44:06     error sass/app.scss (Line 24 of sass/partials/_base.scss: Invalid CSS after "...nd-image: '../'": expected ";", was ".image_url($x2i...")
+2013-04-01 16:44:06 identical css/app.css 
+2013-04-01 16:44:12 overwrite css/app.css 
+2013-04-01 16:44:25 overwrite css/app.css 
+2013-04-01 16:45:02 overwrite css/app.css 
+2013-04-01 16:45:45 overwrite css/app.css 
+2013-04-01 16:46:58 overwrite css/app.css 
+2013-04-01 16:47:09 overwrite css/app.css 
+2013-04-01 16:47:16 overwrite css/app.css 
+2013-04-01 16:47:35 overwrite css/app.css 
+2013-04-01 16:49:19 identical css/app.css 
+2013-04-01 16:50:10 overwrite css/app.css 
+2013-04-01 16:50:55 overwrite css/app.css 
+2013-04-01 16:51:35 overwrite css/app.css 
+2013-04-01 16:51:54 overwrite css/app.css 
+2013-04-01 16:53:52 overwrite css/app.css 
+2013-04-01 16:54:03 overwrite css/app.css 
+2013-04-01 16:54:37 overwrite css/app.css 
+2013-04-01 16:54:46     error sass/app.scss (Line 21 of sass/partials/_base.scss: Invalid CSS after "  $image_name ": expected ":", was "+ '@2x' + $exte...")
+2013-04-01 16:54:46 overwrite css/app.css 
+2013-04-01 16:54:47     error sass/app.scss (Line 21 of sass/partials/_base.scss: Invalid CSS after "  $image_name ": expected ":", was "+ '@2x' + $exte...")
+2013-04-01 16:54:47 identical css/app.css 
+2013-04-01 16:54:51 overwrite css/app.css 
+2013-04-01 16:56:19 overwrite css/app.css 
+2013-04-01 16:56:24 identical css/app.css 
+2013-04-01 16:57:48 overwrite css/app.css 
+2013-04-01 16:58:06 overwrite css/app.css 
+2013-04-01 16:58:15 overwrite css/app.css 
+2013-04-01 17:03:40 overwrite css/app.css 
+2013-04-01 17:08:36 overwrite css/app.css 
+2013-04-01 17:11:29 identical css/app.css 
+2013-04-01 17:12:25     error sass/app.scss (Line 211 of sass/partials/_page.scss: Invalid CSS after "}": expected "}", was "")
+2013-04-01 17:12:25 overwrite css/app.css 
+2013-04-01 17:12:27     error sass/app.scss (Line 211 of sass/partials/_page.scss: Invalid CSS after "}": expected "}", was "")
+2013-04-01 17:12:27 identical css/app.css 
+2013-04-01 17:12:40 overwrite css/app.css 
+2013-04-01 17:12:56 overwrite css/app.css 
+2013-04-01 17:12:57 identical css/app.css 
+2013-04-01 17:16:40 identical css/app.css 
+2013-04-01 17:16:55 overwrite css/app.css 
+2013-04-01 17:18:06    remove .sass-cache/ 
+2013-04-01 17:18:06    remove css/app.css 
+2013-04-01 17:18:10    create css/app.css 
+2013-04-01 17:18:59    remove .sass-cache/ 
+2013-04-01 17:18:59    remove css/app.css 
+2013-04-01 17:19:03    create css/app.css 

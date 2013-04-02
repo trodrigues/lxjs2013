@@ -1,0 +1,211 @@
+@import "compass/css3";
+
+//-----------------------------------------------
+// The following html5-boilerplate styles should
+// probably be customized for each site
+//-----------------------------------------------
+body, select, input, textarea {
+	color: tint($font-color, 30%);
+	font-family: $base-font-family;
+	font-size: $base-font-size;
+    line-height: $base-line-height;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0 auto;
+    background: #FFF url(../img/prime-bg.png) no-repeat right top;
+}
+
+strong, b {
+	font-weight: 700;
+}
+
+em, i {
+	font-style: 400;
+}
+
+a:link,
+a:visited,
+.bttn {
+	text-decoration: none;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	transition: all .2s ease;
+	cursor: pointer;
+}
+
+a:hover,
+a:focus,
+.bttn:hover {
+	text-decoration: none;
+	outline: none;
+	@include opacity(0.7);
+}
+
+a:active,
+.bttn:active {
+	text-decoration: none;
+	position: relative;
+	top: 2px;
+}
+
+.bttn, a.bttn {
+	display: inline-block;
+	line-height: 40px;
+	padding: 0 20px;
+	background: $comp-color;
+	color: #FFF;
+	font-weight: 700;
+	@include border-radius(20px);
+}
+
+.circle {
+	@include border-radius(50%);
+}
+
+.arr-right:after {
+	font-size: 16px;
+	color: #FFF;
+	font-family: 'lxjs';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	-webkit-font-smoothing: antialiased;
+	content: '\e002';
+	margin: 0 0 0 5px;
+}
+
+#site-canvas {
+	margin: 0 auto;
+	width: 100%;
+	padding: 0 20px;
+	max-width: 640px;
+	min-width: 320px;
+	text-align: center;
+}
+
+/* site-head */
+#site-head {
+	margin: 0 0 40px 0;
+	padding: 40px 0;
+	border-bottom: 6px solid tint($comp-color, 80%);
+}
+
+#site-prime-title {
+	margin: 0;
+	font-size: 60px;
+	line-height: 60px;
+	color: $comp-color;
+	img {
+		margin: 0 0 20px 0;
+	}
+	span {
+		display: block;
+	}
+}
+
+#site-sec-title {
+	margin: 0;
+	font-size: 26px;
+	line-height: 30px;
+	color: tint($comp-color, 30%);
+	em {
+		font-style: normal;
+		display: block;
+	}
+}
+
+/* mod */
+.mod {
+	margin: 0 0 40px 0;
+	padding: 0 0 40px 0;
+	border-bottom: 6px solid tint($comp-color, 80%);
+	
+	.mod-prime-title {
+		color: $comp-color;
+		font-size: 26px;
+		line-height: 30px;
+		margin: 0 0 20px 0;
+		&.alt {
+			margin: 0;
+		}
+	}
+	.mod-sec-title {
+		color: tint($comp-color, 30%);
+		font-size: 26px;
+		line-height: 30px;
+		margin: 0 0 20px 0;
+	}
+	.mod-prose {
+		
+		p {
+			margin: 0 0 20px 0;
+		}
+	}
+}
+
+.contact-list {
+	overflow: hidden;
+	display: inline-block;
+	font-size: 0;
+
+	.def {
+		float: left;
+		clear: both;
+		margin: 0 0 5px 0;
+		font-size: $base-font-size;
+		min-width: 220px;
+		text-align: left;
+		
+		a {
+			line-height: 40px;
+		}
+	
+		a:before {
+			font-size: 16px;
+			color: #FFF;
+			font-family: 'lxjs';
+			speak: none;
+			font-style: normal;
+			font-weight: normal;
+			-webkit-font-smoothing: antialiased;
+			margin: 0 10px 0 0;
+			@include border-radius(50%);
+			background: $comp-color;
+			height: 40px;
+			width: 40px;
+			display: inline-block;
+			text-align: center;
+		}
+		
+		&.email a:before { content: "\e003"; }
+		&.phone a:before { content: "\e004"; }
+		&.twitter a:before { content: "\e000"; }
+		&.tumblr a:before { content: "\e001"; }
+		
+	}
+	
+}
+
+/* site-foot */
+
+#site-foot {
+	margin: 0 0 60px 0;
+	
+	.colophon {
+		color: tint($font-color, 50%);
+	}
+}
+
