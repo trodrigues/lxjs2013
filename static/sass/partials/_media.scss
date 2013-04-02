@@ -22,12 +22,10 @@
 	}
 	
 	.contact-list {
-	
 		.def {
 			float: left;
 			clear: none;
-		}
-	
+		}	
 	}
 	
 }
@@ -36,7 +34,7 @@
   /* Style adjustments for viewports 768px and over go here */
 }
 
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 192dpi) { 
 	/* Retina-specific stuff here */
 	
 	body {
