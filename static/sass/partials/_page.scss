@@ -60,6 +60,10 @@ a:active,
 	top: 2px;
 }
 
+h1, h2, h3, h4, h5 {
+	color: $comp-color;
+}
+
 .bttn, a.bttn {
 	display: inline-block;
 	line-height: 40px;
@@ -157,6 +161,22 @@ a:active,
 			margin-bottom: 0;
 		}
 		
+	}
+	.actions {
+		list-style: none;
+		padding: 0;
+		margin: 0 0 40px 0;
+		a:before {
+			font-size: 16px;
+			color: $comp-color;
+			font-family: 'lxjs';
+			speak: none;
+			font-style: normal;
+			font-weight: normal;
+			-webkit-font-smoothing: antialiased;
+			content: '\e002';
+			margin: 0 5px 0 0;
+		}
 	}
 	
 }
